@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKBnyFkB0B2g4ZCCgcS4mBA2QELqC7w29BOMB61VfNiCasp4mJnAYQ8TnuBMd7aDjl1lJxHd7wTeEmeo2L3AtA==",
+  "dgSpecHash": "YEjY2xnc6m0fb3R0EhejSi+XjLSu5sQK5v3By+EGxob+ZlVE08/jXOAEhBHKvE7hVWxQhKhr+DamGMhethnQ0A==",
   "success": true,
-  "projectFilePath": "/src/helloworld.csproj",
+  "projectFilePath": "C:\\Users\\atrajanovski\\source\\repos\\aspnetcore-getting-started\\helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
