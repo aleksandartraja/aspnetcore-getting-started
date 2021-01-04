@@ -12,7 +12,8 @@ spec:
       labels:
         app: hello-world
     spec:
-    
+      nodeSelector:
+        kubernetes.io/os: windows
       terminationGracePeriodSeconds: 0
       containers:
       - name: api
